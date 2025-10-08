@@ -1,4 +1,4 @@
 # obsidian
-this is pc
+this is mobile
 h2wffwfwggwewewg
 kvefvjkejwjjkwej
