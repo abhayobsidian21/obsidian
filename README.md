@@ -1,1 +1,2 @@
 # obsidian
+this is pc
