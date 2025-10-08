@@ -13,15 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what i am doing.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what i am doing"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "8fe1221e64be33b2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -280.7707365640653,
+                  "y": 736.1134569467009,
+                  "zoom": -0.22926211754480988
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e386d5a1e0eedca0",
@@ -181,14 +200,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "1ed291b8c1a94805",
+  "active": "8fe1221e64be33b2",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled.canvas",
+    "Untitled.md",
     "what i am doing.md",
     "Untitled.base",
     "OK/INSIDE OK.md",
     "BOOK -VIEW.md",
     "WHAT.md",
-    "Untitled.md",
     "Untitled 1.base",
     "Untitled 1",
     "Untitled",
