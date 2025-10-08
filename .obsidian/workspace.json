@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "understandin in q.md",
+                "file": "WHAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "understandin in q"
+              "title": "WHAT"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "understandin in q.md",
+                "file": "WHAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for understandin in q"
+              "title": "Backlinks for WHAT"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "understandin in q.md",
+                "file": "WHAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from understandin in q"
+              "title": "Outgoing links from WHAT"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "understandin in q.md",
+                "file": "WHAT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of understandin in q"
+              "title": "Outline of WHAT"
             }
           },
           {
@@ -182,6 +182,12 @@
   },
   "active": "830338e5baf76122",
   "lastOpenFiles": [
+    "understandin in q.md",
+    "WHAT.md",
+    "OK",
+    "obsidian/README.md",
+    "obsidian/Untitled.canvas",
+    "obsidian/understandin in q.md",
     "README.md"
   ]
 }
